@@ -12,3 +12,7 @@
 - The appearance of the application has not been changed.
 - Alternate text is present for all necessary images.
 - The delete button animation works.
+
+# For the examiner :
+
+- If you have seen this information and if you have the opportunity to return to checking the work later, I will be as grateful as possible, I try to do it in time.
